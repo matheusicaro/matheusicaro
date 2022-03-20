@@ -3,7 +3,7 @@
 👋 My name is Matheus, 
 
 
-I am Software Engineer and you can know more about my professional background at **[matheusicaro.com](https://matheusicaro.com/)**.
+I am Software Engineer and you can know more about my professional background at **[matheusicaro.com](https://matheusicaro.com/)**
 
 ## Repositories
 
@@ -16,7 +16,10 @@ I am Software Engineer and you can know more about my professional background at
 - [challenge-usa-powerball-lottery-service](https://github.com/matheusicaro/challenge-usa-powerball-lottery-service): This service is capable of generating tickets, awarded or not, for the traditional USA lottery, Powerball. The service responds with whether each pick has won, the prize won per pick, and the total of all prizes won on the ticket.
 
 - [challenge-ip-geolocation-web-application](https://github.com/matheusicaro/challenge-ip-geolocation-web-application): Coderbyte challenge to develop a web application that can search for IP geolocation. It was suggested to use a stack with Back-end in Node.js and Front-end in React.js.
-
+ 
+<h3 align="center">
+ [ . . . ]
+</h3>
 
 ### Open Source
 
@@ -27,3 +30,8 @@ I am Software Engineer and you can know more about my professional background at
 - [template-nodejs-app](https://github.com/matheusicaro/template-nodejs-app): Repository with my templates pre-configured to start projects with **Noje.js**.
 
 - [template-react-app](https://github.com/matheusicaro/template-react-app): Repository with my templates pre-configured to start projects with **React**.
+
+<h3 align="center">
+ [ . . . ]
+</h3>
+
