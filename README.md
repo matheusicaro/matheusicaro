@@ -9,7 +9,7 @@ Currently, I have been working as a Full-stack developer with a focus on Node.js
 ### 📫 How to reach me: 
 
 - [Mail](mailto:contact@matheusicaro.com)
-- [Linkedin](https://www.linkedin.com/in/federicoviceconti/)
+- [Linkedin](https://www.linkedin.com/in/matheusicaro/)
 
 ### 💻 Website 
 
