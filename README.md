@@ -1,6 +1,6 @@
 # About Me
 
-### 🧑‍💻 Hi there, I am Matheus Ícaro!
+### Hi there, I am Matheus Ícaro! 🧑‍💻 
 
 I am Software Engineer coming from Brazil.
 
