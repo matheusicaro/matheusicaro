@@ -18,7 +18,7 @@ Currently, I have been working as a Full-stack developer with a focus on Node.js
 
 
 ![Matheus's GitHub details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusicaro&theme=github)![Matheus's GitHub languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheusicaro&theme=github)
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusicaro&count_private=true)|
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusicaro&count_private=true)
 
 
 <br>
