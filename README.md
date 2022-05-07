@@ -1,5 +1,3 @@
-# About Me
-
 ### Hi there, I am Matheus Ícaro! 🧑‍💻 
 
 I am Software Engineer coming from Brazil.
@@ -14,6 +12,14 @@ Currently, I have been working as a Full-stack developer with a focus on Node.js
 ### 💻 Website 
 
 > **[matheusicaro.com](https://matheusicaro.com/)**
+
+<br>
+<br>
+
+
+![Matheus's GitHub details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusicaro&theme=github)![Matheus's GitHub languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheusicaro&theme=github)
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusicaro&count_private=true)|
+
 
 <br>
 
@@ -49,7 +55,6 @@ Currently, I have been working as a Full-stack developer with a focus on Node.js
 
 ---
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusicaro&count_private=true)
 
 ![](https://komarev.com/ghpvc/?username=matheusicaro&color=brightgreen&label=PROFILE+VIEWS)
 
