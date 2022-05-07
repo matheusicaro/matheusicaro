@@ -2,7 +2,7 @@
 
 I am Software Engineer coming from Brazil.
 
-Currently, I have been working as a Full-stack developer with a focus on Node.js, Java and React.
+Currently, I have been working as a **Full-stack** developer with a focus on **Node.j**, **Java** and **React**.
 
 ### 📫 How to reach me: 
 
