@@ -18,21 +18,26 @@ Currently, I have been working as a **Full-stack** developer with a focus on:
 📩 &nbsp;[E-mail](mailto:contact@matheusicaro.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🌐 &nbsp;[Portifolio Web](https://matheusicaro.com/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🔗 &nbsp;[Linkedin](https://www.linkedin.com/in/matheusicaro/)
 
 <br>
+<br>
+<br>
 
----
+<section align="center">
+
+![Matheus's GitHub languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheusicaro&theme=github)
+
+ </section>
+
+<section align="center">
+
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusicaro&count_private=true)
+
+</section>
+
 <section align="center">
  
 ![Matheus's GitHub details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusicaro&theme=github)
  
 </section>
- 
-<section align="center">
- 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusicaro&count_private=true) &nbsp; ![Matheus's GitHub languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheusicaro&theme=github)
-
-</section>
-
----
 
 <br>
 
