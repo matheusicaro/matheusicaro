@@ -1,25 +1,38 @@
 ### Hi there, I am Matheus Ícaro! 🧑‍💻 
 
-I am Software Engineer coming from Brazil.
+I am Software Engineer coming from Brazil.<br>
+Currently, I have been working as a **Full-stack** developer with a focus on:
 
-Currently, I have been working as a **Full-stack** developer with a focus on **Node.j**, **Java** and **React**.
+<section>
+<img align="center" alt="javascript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
+<img align="center" alt="nodejs" height="120" width="130" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /> 
+<img align="center" alt="java" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /> 
+<img align="center" alt="react" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /> 
+<img align="center" alt="amazon" height="130" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
+<img align="center" alt="kubernetes" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	•	• &nbsp;&nbsp; more at <a href="https://matheusicaro.com/" role="link" aria-label="All my skills"><b>matheusicaro.com/skills</b></a>
+</section>
 
-### 📫 How to reach me: 
+## 📫 How to reach me: 
 
-- [Mail](mailto:contact@matheusicaro.com)
-- [Linkedin](https://www.linkedin.com/in/matheusicaro/)
-
-### 💻 Website 
-
-> **[matheusicaro.com](https://matheusicaro.com/)**
+📩 &nbsp;[E-mail](mailto:contact@matheusicaro.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🌐 &nbsp;[Portifolio Web](https://matheusicaro.com/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🔗 &nbsp;[Linkedin](https://www.linkedin.com/in/matheusicaro/)
 
 <br>
-<br>
 
+---
+<section align="center">
+ 
+![Matheus's GitHub details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusicaro&theme=github)
+ 
+</section>
+ 
+<section align="center">
+ 
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusicaro&count_private=true) &nbsp; ![Matheus's GitHub languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheusicaro&theme=github)
 
-![Matheus's GitHub details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusicaro&theme=github)![Matheus's GitHub languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheusicaro&theme=github)
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusicaro&count_private=true)
+</section>
 
+---
 
 <br>
 
