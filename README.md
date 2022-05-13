@@ -4,12 +4,12 @@ I am Software Engineer coming from Brazil.<br>
 Currently, I have been working as a **Full-stack** developer with a focus on:
 
 <section>
-<img align="center" alt="javascript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
-<img align="center" alt="nodejs" height="120" width="130" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /> 
-<img align="center" alt="java" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /> 
-<img align="center" alt="react" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /> 
-<img align="center" alt="amazon" height="130" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
-<img align="center" alt="kubernetes" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" /> 
+<img align="center" alt="javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
+<img align="center" alt="nodejs" height="100" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /> 
+<img align="center" alt="java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /> 
+<img align="center" alt="react" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /> 
+<img align="center" alt="amazon" height="110" width="130" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
+<img align="center" alt="kubernetes" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	•	• &nbsp;&nbsp; more at <a href="https://matheusicaro.com/" role="link" aria-label="All my skills"><b>matheusicaro.com/skills</b></a>
 </section>
 
