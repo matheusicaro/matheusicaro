@@ -126,7 +126,7 @@ Currently, I have been working as a **Full-stack** developer with a focus on:
 </p>
 
 
-- **[TEMPLATE-nodejs-app](https://github.com/matheusicaro/template-nodejs-app)**: Repository with my templates pre-configured to start projects with **Noje.js**.
+- **[MI-TEMPLATE-nodejs-app](https://github.com/matheusicaro/mi-template-nodejs-app)**: My templates pre-configured to start projects with **Noje.js**.
 <p align="end">
 <img align="center" alt="nodejs" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /> 
 <img align="center" alt="javascript" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
@@ -136,7 +136,7 @@ Currently, I have been working as a **Full-stack** developer with a focus on:
  •	•	• 
 </p>
 
-- **[TEMPLATE-react-app](https://github.com/matheusicaro/template-react-app)**: Repository with my templates pre-configured to start projects with **React**.
+- **[MI-TEMPLATE-react-app](https://github.com/matheusicaro/mi-template-react-app)**: My templates pre-configured to start projects with **React**.
 <p align="end">
 <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 <img align="center" alt="redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
