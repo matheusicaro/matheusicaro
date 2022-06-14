@@ -1,7 +1,7 @@
 ### Hi there, I am Matheus Ícaro! 🧑‍💻 
 
 I am Software Engineer coming from Brazil.<br>
-Currently, I have been working as a **Full-stack** developer with a focus on:
+Currently, I have been working as a **Full-stack** developer focusing on:
 
 <section>
 <img align="center" alt="javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
